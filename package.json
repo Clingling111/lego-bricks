@@ -30,6 +30,9 @@
     "core-js": "^3.6.5",
     "lodash-es": "^4.17.21"
   },
+  "files": [
+    "dist"
+  ],
   "peerDependencies": {
     "vue": "^3.0.0"
   },
